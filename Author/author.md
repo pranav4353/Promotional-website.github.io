@@ -38,14 +38,14 @@ Checklist
 Peraonl Ideas
 ### Peraonl Ideas
 - [x] Hobbies
-    -Plays Tenor Sax
-    -listening to music
+    - Plays Tenor Sax
+    - listening to music
 - [x] Sports
-    -Badmonton
-    -Swimming
+    - Badmonton
+    - Swimming
 - [ ] Habits
-    -On my days off, I am unwilling to wake up before 10 am
-    -I have a tendency to stay up late in the night
+    - On my days off, I am unwilling to wake up before 10 am
+    - I have a tendency to stay up late in the night
 - [ ] Daily Routines (i.e. during school days, during weekends, during holidays)
 - [ ] Religion (if this applies)
 - [ ] Personality
@@ -59,7 +59,7 @@ Peraonl Ideas
 - [ ] Defining Experiences: major life events you want to share
 - [ ] Other Defining Experiences: ideas for any part of your life
   - [x] Family and Caregivers
-    -My household consistes of my parents and my twin brother
+    - My household consistes of my parents and my twin brother
   - [ ] <del>Friends</del>
   - [ ] <del>Clubs</del>
   - [ ] <del>Sports</del>
@@ -69,10 +69,10 @@ Life at School Ideas
 ### Life at School Ideas
 - [x] Answer: How are you involved at QE in clubs, teams, or groups?
   - [x] For example, “hanging out with friends” is still a student group
-  -I am part of my school's jazz band
+  - I am part of my school's jazz band
 - [x] How are you academic?
   - [x] Subjects you have high grades in; subjects you enjoy "putting in extra effort"
-  -I happen to do well in every subject except English Language Arts
+  - I happen to do well in every subject except English Language Arts
   - [ ] <del>Subjects you find it 'natural' to remember "everything" recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas</del>
   - [ ] <del>Subjects you find it 'natural' to remember "everything" recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas</del>
 

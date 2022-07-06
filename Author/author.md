@@ -5,9 +5,9 @@
 Checklist
 
 
-- [ ] Nationality: Canada
-- [ ] Ethnicity: Indian
-- [ ] School: W.P. Wagner
+- [x] Nationality: Canada
+- [x] Ethnicity: Indian
+- [x] School: W.P. Wagner
 - Hobbies
 - Plays Tenor Sax
 - Sports: Badmonton, swimming

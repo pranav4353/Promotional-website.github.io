@@ -4,21 +4,6 @@
 
 Checklist
 
-
-- [x] Nationality: Canada
-- [x] Ethnicity: Indian
-- [x] School: W.P. Wagner
-- Hobbies
-- Plays Tenor Sax
-- Sports: Badmonton, swimming
-- Loves to listen to music and also make it with instrument
-- Other defining experiances
-- I am part of my school's jazz band
-- My household consistes of my parents and my twin brother
-- Habits
-- On my days off, I am unwilling to wake up before 10 am
-- I have a tendency to stay up late in the night
-
 ### Family and Group Ideas
 - [x] Nationality: Canada
 - [x] Ethnicity: Indian
@@ -43,7 +28,7 @@ Peraonl Ideas
 - [x] Sports
     - Badmonton
     - Swimming
-- [ ] Habits
+- [x] Habits
     - On my days off, I am unwilling to wake up before 10 am
     - I have a tendency to stay up late in the night
 - [ ] Daily Routines (i.e. during school days, during weekends, during holidays)
